@@ -1,0 +1,15 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 50
+    },
+    "display": "Spinner Loader",
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Font": false,
+        "MinWidth": true,
+        "resizable": true
+    }
+}

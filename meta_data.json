@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "containers",
+        "2": "web scraping",
+        "3": "data (things)",
+        "4": "customer support"
+    },
+    "description": "Loading spinners are used when retrieving data or performing slow computations.",
+    "image": "//meta-q.cdn.bubble.io/f1710394674204x809784968354321300/26af26707d7d0da6d5bc930788cfc868.gif",
+    "license": "open_source",
+    "name": "Spinner Loading"
+}

@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAE": {
+            "name": "Spinner",
+            "url": "//meta-q.cdn.bubble.io/f1713440327377x206108890199849800/sp.gif"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
